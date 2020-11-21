@@ -1,0 +1,19 @@
+.img-profile {
+  border: 10px solid white; /* Gray border */
+  border-radius: 50%;
+  width: 200px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+.img-profile:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+/}
+
+.img-publication {
+}
+
+/* Add a hover effect (blue shadow) */
+.img-publication:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+/}
+
